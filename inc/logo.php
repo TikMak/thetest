@@ -1,1 +1,1 @@
-<img src="http://placehold.it/150&text=logo">
+<img src="http://placehold.it/30&text=logo">
